@@ -1,39 +1,24 @@
-Hii , I'm Jaya Sai
-Welcome to my GitHub profile! I'm a 4th-year Computer Science student, passionate about coding, building projects, and exploring new tech. Here’s a bit more about me:<br>
+# 👋 Hi, I'm JayaSai!
+👩🏻‍💻 Computer Science student sharing about my journey and learnings in tech<br/>
+👩🏻‍🎓 Studied [Computer Science](https://youtu.be/Dd_4zfmY-aA?si=3NnnJ-j5ls7johlv) at GMRIT rajam<br/>
 
-🌟 About Me<br><br>
-🎓 Pursuing B.Tech in Computer Science & Engineering at GMR Institute of Technology (CGPA: 8.5)<br><br>
-💻 Skilled in Python, C, Java, with experience in MySQL<br><br>
-🌱 Strong foundation in Data Structures & Algorithms and eager to contribute to innovative projects<br><br>
-🚀 Focused on full-stack development and machine learning, with projects ranging from web applications to real-time deep learning models<br><br>
-💼 Experience<br><br>
-AWS Cloud Computing Intern at HashTek Solutions<br><br>
-(https://drive.google.com/file/d/18NxSfvRSlYWztvamdJ8iAj4cegctnrNe/view?usp=sharing)<br><br>
-Deployed high-availability web apps on AWS EC2 with Auto Scaling and Load Balancing<br><br>
-💻 Projects<br><br>
-🚗 Driver Drowsiness Detection System<br><br>
-(https://www.linkedin.com/posts/jayasai2993_python-tensorflow-keras-activity-7228740669102563328-qx4-?utm_source=share&utm_medium=member_desktop)<br><br>
-Built a real-time detection system using Flask, TensorFlow, and OpenCV for live video monitoring<br><br>
-Integrated audio-visual alerts when drowsiness is detected, utilizing a pre-trained model for eye state classification<br><br>
-🧩 Interactive Quiz Application<br><br>
-(https://saiquiz2993.ccbp.tech/)<br><br>
-Developed a responsive quiz app with a 60-second timer per question and a leaderboard prioritizing scores and completion time<br><br>
-Utilized HTML, CSS (Bootstrap), JavaScript, and local storage to save and display scores<br><br>
-🎮 Shooting King Game<br><br>
-(https://www.linkedin.com/posts/jayasai2993_python-pygame-gamedevelopment-activity-7224806289996947459-0PGa?utm_source=share&utm_medium=member_desktop)<br><br>
-Created a 2D shooting game in Python using Pygame<br><br>
-Implemented enemy AI, collision detection, bullet mechanics, and scoring for an engaging experience<br><br>
-🎓 Certifications<br><br>
-Python for Data Science and AI - Coursera<br><br>
-Developing Frontend Apps with React - Coursera<br><br>
-Machine Learning with Python - Edx<br><br>
-Artificial Intelligence with Python - Great Learning<br><br>
-🎖 Achievements<br><br>
-2-star rating on CodeChef and 250+ problems solved on CodeChef & LeetCode(https://leetcode.com/u/jayasai2993/)<br><br>
-NCC C Certification with B grade<br><br>
-Competed in Mr. Andhra Body Building, achieving a 15% increase in muscle mass<br><br>
-📫 Connect with Me<br><br>
-LinkedIn: jayasai2993<br>
-GitHub: jayasai2993<br>
-LeetCode: u/jayasai2993<br>
-Thanks for visiting!<br>
+<!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
+![](https://github-readme-stats.vercel.app/api?username=xsol05&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+
+# 💻 Tech Stack
+<!-- Badges from https://github.com/Ileriayo/markdown-badges -->
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)<br/>
+![Full Stack](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Machine Learning](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![DSA](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![SQL](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)<br/>
+![DBMS](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Flask](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
+![AWS EC2](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![GIT](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
