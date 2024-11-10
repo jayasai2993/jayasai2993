@@ -11,7 +11,7 @@ Hii i am JayaSai,<br><br>
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=jayasai2993&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jayasai2993&theme=radical&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jayasai2993&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
 
 
 ## 🏆 GitHub Trophies
